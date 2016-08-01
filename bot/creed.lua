@@ -228,6 +228,7 @@ function create_config( )
     "owners",
     "set",
     "get",
+    "plugin",
     "broadcast",
     "download_media",
     "invite",
